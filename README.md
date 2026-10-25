@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**krniku933-uz/krniku933-uz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Niku Kumar 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning Data Structures & Algorithms in Java
+
+🧠 Practicing Aptitude and Logical Reasoning
+
+🚀 Exploring Software Development
+
+## 🛠️ Currently Learning
+- Java
+- Data Structures & Algorithms
+- Problem Solving
+- Aptitude
+
+## 🎯 My Goals
+- Improve my coding skills
+- Solve DSA problems regularly
+- Build beginner-friendly Java projects
+- Learn new technologies
+
+## 📚 What I'm Working On
+- Java programming fundamentals
+- DSA practice
+- Aptitude preparation
+
+## 🤝 Connect With Me
+- GitHub: [@krniku933-uz](https://github.com/krniku933-uz)
+
+---
+*Learning every day, one problem at a time.* 🚀
